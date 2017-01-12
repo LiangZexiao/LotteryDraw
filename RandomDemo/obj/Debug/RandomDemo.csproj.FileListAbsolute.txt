@@ -8,14 +8,4 @@ d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\Rand
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.exe
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.pdb
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.Result.resources
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.UI.dll
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.World.dll
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\ZedGraph.dll
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.UI.pdb
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.UI.xml
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.World.pdb
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\Emgu.CV.World.xml
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\ZedGraph.xml
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
-d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\bin\Debug\zh-CN\ZedGraph.resources.dll
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.Form2.resources
