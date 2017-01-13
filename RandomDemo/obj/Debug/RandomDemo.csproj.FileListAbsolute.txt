@@ -20,3 +20,14 @@ G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Result.resources
 G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.csproj.GenerateResource.Cache
 G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.exe
 G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.pdb
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.exe.config
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.exe
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.pdb
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.exe
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.pdb
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Form1.resources
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Form2.resources
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Properties.Resources.resources
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Result.resources
+D:\我的文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.csproj.GenerateResource.Cache

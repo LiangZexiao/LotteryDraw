@@ -89,5 +89,10 @@ namespace RandomDemo
 
         }
 
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show(FileHelper.Clear());
+        }
+
     }
 }

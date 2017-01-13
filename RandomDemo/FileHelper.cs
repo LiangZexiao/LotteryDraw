@@ -38,5 +38,19 @@ namespace RandomDemo
             sw.Close();
             fs.Close();
         }
+        public static string Clear()
+        {
+            try
+            {
+                FileStream fs = new FileStream(path, FileMode.Create);
+                fs.Close();
+                return "清除历史记录成功！";
+            }
+            catch(Exception exp)
+            {
+                return exp.ToString();
+            }
+
+        }
     }
 }
