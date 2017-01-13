@@ -9,3 +9,14 @@ d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\Rand
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.pdb
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.Result.resources
 d:\我的文档\visual studio 2013\Projects\RandomDemo\RandomDemo\obj\Debug\RandomDemo.Form2.resources
+G:\文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.exe.config
+G:\文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.exe
+G:\文档\GitHub\LotteryDraw\RandomDemo\bin\Debug\RandomDemo.pdb
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.csprojResolveAssemblyReference.cache
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Form1.resources
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Form2.resources
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Properties.Resources.resources
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.Result.resources
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.csproj.GenerateResource.Cache
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.exe
+G:\文档\GitHub\LotteryDraw\RandomDemo\obj\Debug\RandomDemo.pdb

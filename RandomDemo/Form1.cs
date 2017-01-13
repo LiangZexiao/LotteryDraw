@@ -25,7 +25,8 @@ namespace RandomDemo
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            //读取原来记录
+            ArrayList records = FileHelper.Read();
 
             int number = Convert.ToInt32(numericUpDown1.Value);
             int min = Convert.ToInt32(numericUpDown2.Value);
@@ -47,7 +48,7 @@ namespace RandomDemo
                 else
                 {
                     int temp = random.Next(min,max);
-                    if(Array.IndexOf(result,temp) == -1)
+                    if(Array.IndexOf(result,temp) == -1 && records.IndexOf(temp)==-1)
                     {
                         result[i] = temp;
                     }
@@ -87,7 +88,6 @@ namespace RandomDemo
             form2.ShowDialog();
 
         }
-
 
     }
 }

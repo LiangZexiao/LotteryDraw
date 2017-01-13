@@ -36,5 +36,13 @@ namespace RandomDemo
         {
             this.Close();
         }
+
+        private void Result_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            foreach (var item in listBox1.Items)
+            {
+                FileHelper.Write(item.ToString());
+            }
+        }
     }
 }
